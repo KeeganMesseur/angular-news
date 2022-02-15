@@ -8,7 +8,6 @@ import {HttpClientModule} from '@angular/common/http';
 import {NewsapiservicesService} from './service/newsapiservices.service';
 
 
-
 @NgModule({
   declarations: [
     AppComponent,
